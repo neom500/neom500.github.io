@@ -1,5 +1,5 @@
 .section {
-	float: left;
+	display: inline-block;
 	
 }
 
